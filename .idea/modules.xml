@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../toff_backend/.idea/toff_backend.iml" filepath="$PROJECT_DIR$/../toff_backend/.idea/toff_backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/toff_frontend.iml" filepath="$PROJECT_DIR$/.idea/toff_frontend.iml" />
+    </modules>
+  </component>
+</project>

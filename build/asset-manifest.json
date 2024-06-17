@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.349e6500.css",
+    "main.js": "/static/js/main.09fdee8b.js",
+    "static/js/787.7d028026.chunk.js": "/static/js/787.7d028026.chunk.js",
+    "static/media/Cambria.ttf": "/static/media/Cambria.767a1ee46c53d53447c2.ttf",
+    "static/media/fontawesome-webfont.svg?v=4.2.0": "/static/media/fontawesome-webfont.083a1c3461b427ea103b.svg",
+    "static/media/Oswald-VariableFont_wght.ttf": "/static/media/Oswald-VariableFont_wght.7cecd0da606d25b0905d.ttf",
+    "static/media/fontawesome-webfont.ttf?v=4.2.0": "/static/media/fontawesome-webfont.670e1210f375c1590bd4.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.2.0": "/static/media/fontawesome-webfont.6e8ec896aab286231d3c.woff",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.1c77d5ab10c945269a09.eot",
+    "index.html": "/index.html",
+    "main.349e6500.css.map": "/static/css/main.349e6500.css.map",
+    "main.09fdee8b.js.map": "/static/js/main.09fdee8b.js.map",
+    "787.7d028026.chunk.js.map": "/static/js/787.7d028026.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.349e6500.css",
+    "static/js/main.09fdee8b.js"
+  ]
+}
